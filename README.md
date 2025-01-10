@@ -1,8 +1,25 @@
-# React + Vite
+🚀 Todo List Application
+🌟 Technologies Used: React.js, Bootstrap, Moment.js, Nanoid, React Toastify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Demo:  
+               https://viraj-kelum.github.io/Todo-app/
 
-Currently, two official plugins are available:
+I developed and published a sleek, responsive Todo List application that enables users to efficiently manage their tasks. Key features include:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Adding and organizing tasks with optional detailed descriptions.
+
+✅ Real-time task completion and deletion functionality.
+
+✅ Timestamping tasks using Moment.js for enhanced tracking.
+
+✅ Unique ID generation with Nanoid for reliable task management.
+
+✅ Interactive user feedback powered by React Toastify.
+
+The application is styled using Bootstrap for a polished, user-friendly interface, ensuring seamless usability across devices. This project showcases my expertise in front-end development and my ability to deliver functional, dynamic web applications.
+
+
+
+
+
+Check it out and let me know your thoughts! 💻✨
